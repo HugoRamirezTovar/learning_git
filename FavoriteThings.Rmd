@@ -1,14 +1,14 @@
 ---
 title: "A few of my favorite things"
-author: "Alex Hurtado Desaulniers"
+author: "Hugo Andres Ramirez Tovar"
 output: html_notebook
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+ - Playing Videogames
+ - Practicing Soccer and Basketball 
+ - Watching Formula one races
+ - Visit other cities
 
-🍴
+🏎️⚽
